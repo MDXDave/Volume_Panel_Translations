@@ -16,75 +16,75 @@
         <br/>\u2022 Игорь Иринин - Russian
 	    <br/>\u2022 Emad Ayad - Arabic
         <br/><br/>Feel free to contact me via the \"Email Feedback\" option &amp; don\'t forget to leave a review &#128512;]]></string>
-    <string name="about_title">About</string>
+    <string name="about_title">Über</string>
     <string name="accessibility_description">
-        <u>Accessibility Access</u>
-        \n\nThis permission allows us to detect volume +\\- key presses.
-        \n\nNo other content is captured.
-        \n\nSome devices may require a reboot to start the service.</string>
+        <u>Eingabehilfe</u>
+        \n\nDie Berechtigung wird verwendet um den lauter/leiser Tastendruck zu erkennen.
+        \n\nEs werden keine anderen Aktionen aufgezeichnet.
+        \n\nAuf manchen Geräten ist ein neustart notwendig um den Dienst zu starten.</string>
     <string name="action">Action Now</string>
-    <string name="add_border">Enable Panel Borders</string>
+    <string name="add_border">Rahmen aktivieren</string>
     <string name="add_shortcut">Launcher Shortcut</string>
-    <string name="additonal_perms_req">Additional Permissions Required</string>
-    <string name="alert">Optimisation Alert</string>
-    <string name="anim_duration">Animation Duration = %.2fs</string>
-    <string name="anim_durations">Animation Duration</string>
+    <string name="additonal_perms_req">Zusätzliche Berechtigungen benötigt</string>
+    <string name="alert">Warnung bezüglich Optimierung</string>
+    <string name="anim_duration">Animationsdauer = %.2fs</string>
+    <string name="anim_durations">Animationsdauer</string>
     <string name="app_name">Volume Panel</string>
-    <string name="auto_dark_sum">\u2022 Follow system Dark/Light mode.
-        \n\u2022 Manufacturer support required.</string>
-    <string name="background_colour">Background Colour</string>
-    <string name="bat_opt"><![CDATA[<b>Volume Panel is being optimised by the system &amp; may be killed in the background</b>.
-        <br/><br/>None of the services in Volume Panel are battery intensive, but disabling optimisation will improve reliability.
-        <br/><br/>Click \"Close\" to run optimised or click \"Action Now\" followed by \"All Apps\" then disable Battery Optimisation for Volume Panel.
-        <br/><br/>If you find that the service is still being killed by the system, try enabling the "Force Keep Services Alive" Option.]]></string>
-    <string name="behaviour">Behaviour</string>
-    <string name="block_vold_lp">Block Vol Down Long Press</string>
-    <string name="block_vold_lp_sum">\u2022 Fixes Vol + Power screenshot issues.</string>
-    <string name="border_colour">Border Colour</string>
-    <string name="border_thickness">Border Thickness = %1$d dp</string>
-    <string name="border_thicknesss">Border Thicknes</string>
+    <string name="auto_dark_sum">\u2022 Verwende Systemeinstellungen für Dark-Mode
+        \n\u2022 Herstellerunterstützung notwendig.</string>
+    <string name="background_colour">Hintergrundfarbe</string>
+    <string name="bat_opt"><![CDATA[<b>Volume Panel wird durch das System otpimiert &amp; kann im Hintergrund beendet werden</b>.
+        <br/><br/>Keiner der Dienste von Volume Panel belasten den Akku stark, dennoch wird empfohlen die Optimierung zu deaktivieren um die Zuverlässigkeit der App zu erhöhen.
+        <br/><br/>Klicke auf \"Schließen\" um die App weiterhin durch das System optimieren zu lassen oder klicke auf \"Optimierung deakivieren\" und im darauffolgenden Fenster auf \"Alle\". Deaktiviere anschließend die Optimierung für \"Volume Panel\".
+        <br/><br/>Wird der Dienst nach wie vor durch das System beendet, versuche die Option \"Zwinge Dienste am Leben zu halen\".]]></string>
+    <string name="behaviour">Verhalten</string>
+    <string name="block_vold_lp">Blockiere langen Druck auf Lautstärke leiser</string>
+    <string name="block_vold_lp_sum">\u2022 Behebt Probleme beim Aufnehmen eines Screenshots mit Lautstärke + Power-Taste.</string>
+    <string name="border_colour">Rahmenfarbe</string>
+    <string name="border_thickness">Rahmendicke = %1$d dp</string>
+    <string name="border_thicknesss">Rahmendicke</string>
     <string name="bright_calibrate">
-        <b>i</b>: Recalibrate Maximum Brightness:
-        \n\u2022 Set your screen brightness to Max then long press here.</string>
-    <string name="cancel">Cancel</string>
-    <string name="cast">Control Cast Volume</string>
-    <string name="click_out">Click Outside To Close</string>
-    <string name="click_out_sum">\u2022 May interfere with other apps when enabled.</string>
-    <string name="close">Close</string>
-    <string name="corner_scale">Corner Radius = %1$d%%</string>
-    <string name="corner_scales">Corner Radius</string>
+        <b>i</b>: Maximale Helligkeit kalibrieren:
+        \n\u2022 Stelle die maximale Display-Helligkeit ein und halte dann lange hier gedrückt.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cast">Cast-Lautstärke steuern</string>
+    <string name="click_out">Außerhalb tippen um zu schließen</string>
+    <string name="click_out_sum">\u2022 Kann Probleme mit anderen Apps verursachen wenn aktiv.</string>
+    <string name="close">Schleießn</string>
+    <string name="corner_scale">Eckenradius = %1$d%%</string>
+    <string name="corner_scales">Eckenradius</string>
     <string name="cp_head">Tap CENTER to confirm</string>
-    <string name="dark_mode">Dark Mode</string>
+    <string name="dark_mode">Dark-Mode</string>
     <string name="default_to_ring_volume">Default To Ring Volume</string>
     <string name="design">Design</string>
     <string name="detect_keys">Detect Key Presses When Open</string>
-    <string name="disable">Disable</string>
-    <string name="disable_acc">PLEASE DISABLE THE ACCESSIBILITY SERVICE.</string>
-    <string name="disable_notif">PLEASE DISABLE NOTIFICATION ACCESS</string>
-    <string name="disabling">This app was not installed from Google Play &amp; will soon be disabled.</string>
-    <string name="dismiss">Dismiss</string>
+    <string name="disable">Deaktivieren</string>
+    <string name="disable_acc">BITTE DEAKTIVIERE DEN ZUGRIFF AUF EINGABEHILFEN.</string>
+    <string name="disable_notif">BITTE DEAKTIVIERE DEN ZUGRIFF AUF BENACHRICHTIGUNGEN</string>
+    <string name="disabling">Diese App wurde nicht über Google Play installiert &amp; wird in Kürze deaktiviert.</string>
+    <string name="dismiss">Verwerfen</string>
     <string name="dnd_access">
-        <u>Do Not Disturb Access</u>
-        \n\nThis permission allows us to modify Do Not Disturb Settings.
+        <u>Bitte-nicht-stören-Zugriff</u>
+        \n\nDiese Berechtigung erlaubt und die Bitte-nicht-stören-Einstellungen zu verändern.
         \n\n</string>
-    <string name="do_not_kill">Force Keep Services Alive</string>
-    <string name="do_not_kill_desc"><![CDATA[<b>Only use this option if volume panel keeps stopping.
-        </b><br/><br/>Some devices are too aggressive when freeing up memory and kill important services, applications with Admin rights are rarely killed.
-        <br/><br/>Enabling basic Admin rights for Volume Panel will keep our services alive.
-        <br/><br/>You will have to disable this option if you ever need to uninstall the app.]]></string>
-    <string name="done">Done</string>
-    <string name="email_feedback">Email Feedback</string>
-    <string name="enable_blacklist">Enable App Exclusions</string>
-    <string name="enable_volume_panel">Volume Button Override</string>
-    <string name="exclude_applications">Exclude Applications</string>
-    <string name="exclude_applications_sum">\u2022 Volume panel will not open in these applications.</string>
-    <string name="excluded">Volume Panel: Application Excluded</string>
-    <string name="failed_window_add">Failed to add window, please open the app and make sure Screen Overlay permissions have been granted</string>
-    <string name="fill_style">Use Solid Sliders</string>
-    <string name="flash_light">Show Flashlight Button</string>
-    <string name="floating_trigger">Swipe Up/Down Trigger</string>
-    <string name="force_close">Force Close Dialogs</string>
-    <string name="free">Disable Free Version</string>
+    <string name="do_not_kill">Zwinge Dienste am Leben zu halten</string>
+    <string name="do_not_kill_desc"><![CDATA[<b>Nutze diese Option nur, wenn Volume Panel ständig beendet wird.
+        </b><br/><br/>Manche Geräte sind zu aggresiv beim Leeren des Arbeitsspeichers und beenden wichtige Dienste. Anwendungen mit Administrationsrechten werden nur selten beendet.
+        <br/><br/>Wenn du Volume Panel Administrationsrechte erteilst, können unsere Dienste am Leben gehalten werden.
+        <br/><br/>Wenn du die App deinstallieren möchtest, musst du zuerst die Administrationsberechtigung deaktivieren.]]></string>
+    <string name="done">Fertig</string>
+    <string name="email_feedback">E-Mail Feedback</string>
+    <string name="enable_blacklist">App-Ausschlüsse aktivieren</string>
+    <string name="enable_volume_panel"> Lautstärke-Tasten überschreiben</string>
+    <string name="exclude_applications">Apps ausschließen</string>
+    <string name="exclude_applications_sum">\u2022 Volume Panel wird in den ausgewählten Apps nicht geöffnet.</string>
+    <string name="excluded">Volume Panel: Ausgeschlossene Apps</string>
+    <string name="failed_window_add">Fehler beim öffnen des Fesnters, bitte öffne die App und stelle sicher dass die Berechtiung zum Zeichnen über andere Apps aktiviert ist</string>
+    <string name="fill_style">Nutze massive Schieberegler</string>
+    <string name="flash_light">Zeige Taschenlampen-Taste</string>
+    <string name="floating_trigger">Nach oben/unten Trigger</string>
+    <string name="force_close">Dialoge schließen</string>
+    <string name="free">Deaktiviere Free Version</string>
     <string name="free_installed">Volume Panel Free is currently overriding the system volume panel, please disable it to avoid conflicts.</string>
     <string name="google_assistant">Show Assistant Button</string>
     <string name="grant">Grant Permission</string>
